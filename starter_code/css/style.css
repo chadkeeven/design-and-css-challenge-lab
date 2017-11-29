@@ -78,6 +78,7 @@ main {
   width: 100%;
   height: auto;
   padding: 10%;
+  background-color: #f0efef;
 }
 
 footer {
@@ -141,7 +142,8 @@ footer {
 }
 
 .quote {
-  font-weight: 400;
+  font-weight: 400i;
+  font-style: italic;
   font-size: 18px;
   color: #FFFFFF;
   padding: 10% 20% 5% 20%;
