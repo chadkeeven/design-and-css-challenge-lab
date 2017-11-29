@@ -95,14 +95,14 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
-.header1 {
+#header1 {
   font-weight: 800;
   font-size: 24px;
   color: #FFFFFF;
   padding: 2% 10%;
 }
 
-.header2 {
+#header2 {
   font-size: 24px;
   font-weight: 600;
   color: #FFFFFF;
@@ -110,7 +110,7 @@ footer {
   margin: 10%;
 }
 
-.getButton {
+#getButton {
   font-weight: 800;
   font-size: 14px;
   background-color: #F9E42E;
@@ -120,20 +120,20 @@ footer {
   padding: 1%;
 }
 
-.main-header{
+#main-header{
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 5%;
   margin-right: 40%
 }
 
-.description-paragraph{
+#description-paragraph{
   font-weight: 300;
   font-size: 13px;
   margin-bottom: 5%;
 }
 
-.list-of-abilities{
+#list-of-abilities{
   font-weight: 300;
   font-size: 13px;
   padding-left: 10%;
@@ -141,27 +141,27 @@ footer {
   padding-bottom: 10%;
 }
 
-.quote {
-  font-weight: 400i;
+#quote {
+  font-weight: 400;
   font-style: italic;
   font-size: 18px;
   color: #FFFFFF;
   padding: 10% 20% 5% 20%;
 }
 
-.quote-author {
+#quote-author {
   font-weight: 600;
   font-size: 18px;
   color: #FFFFFF;
 }
 
-.yellow-line {
+#yellow-line {
   background-color: #f9e42e;
   margin: 50px 0;
   padding: 10px 0;
 }
 
-.sign-up-now-button {
+#sign-up-now-button {
   font-weight: 800;
   background-color: #033048;
   margin: 0 42%;
@@ -171,24 +171,19 @@ footer {
   color: #FFFFFF;
 }
 
-.relaxr-footer {
+#relaxr-footer {
   font-weight: 800;
   color: #f9e42e;
   font-size: 24px;
   margin-bottom: 50px;
 }
 
-.twitter-image {
+.social-images {
   display: inline-block;
   margin: 20px;
 }
 
-.facebook-image {
-  display: inline-block;
-  margin: 20px;
-}
-
-.copyright {
+#copyright {
   font-weight: 600;
   font-size: 9px;
   color: #FFFFFF;
